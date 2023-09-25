@@ -22,7 +22,10 @@ Roman Teterevlev
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
-###Ответ:
-
+### Ответ:
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-06/blob/main/12-06_2.1.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-06/blob/main/12-06_2.2.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-06/blob/main/12-06_2.3.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-06/blob/main/12-06_2.4.png)
 
 ---
